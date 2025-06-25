@@ -1,24 +1,13 @@
-title: Gofannon Tools
+title: Japan Chapter
 description: >-
-  Cross-framework AI tooling & open source education
-baseurl: "/gofannon"
+  Regional site for the Japan Chapter of the AI Alliance 
+baseurl: "/japan"
 url: "https://the-ai-alliance.github.io"
 
-google_tag_id:  G-S4YL0CG31S
+google_tag_id:  G-RNHLN944B5
 discord_link: https://discord.gg/2MMCVs76Sr
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
 
-collections:
-  docs:
-    output: true
-    permalink: /docs/:path/
-
-defaults:
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: docs
