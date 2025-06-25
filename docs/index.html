@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Under Construction</title>
+    <!-- IBM Plex Sans Font -->
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- IBM Carbon Components CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/carbon-components/css/carbon-components.min.css">
+    <style>
+        /* Custom styles to center content and apply Carbon theme */
+        html, body {
+            height: 100%;
+            margin: 0;
+            font-family: 'IBM Plex Sans', sans-serif; /* Apply Carbon font */
+        }
+
+        body {
+            background-color: #f4f4f4; /* Carbon Gray 10 */
+            color: #161616; /* Carbon Gray 100 */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 2rem;
+            box-sizing: border-box;
+        }
+
+        .construction-container {
+            background-color: #ffffff; /* White background for the card/tile */
+            padding: 3rem 4rem; /* Carbon uses rems, this is ~48px 64px */
+            border-radius: 0; /* Carbon tiles are sharp, no border-radius by default */
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* Subtle shadow, common in Carbon */
+            max-width: 600px; /* Max width for content */
+        }
+
+        .icon-area svg {
+            width: 64px; /* Larger icon */
+            height: 64px;
+            margin-bottom: 1.5rem; /* ~24px */
+            fill: #0f62fe; /* IBM Blue 60 */
+        }
+
+        .bx--type-productive-heading-05 { /* Carbon heading style */
+            margin-bottom: 1rem; /* ~16px */
+        }
+
+        .bx--type-body-long-01 { /* Carbon body text style */
+            margin-bottom: 2rem; /* ~32px */
+            color: #525252; /* Carbon Gray 60 for secondary text */
+        }
+
+        .bx--btn { /* Ensure button styles are applied if you add one */
+            margin-top: 1rem;
+        }
+
+        /* Small screen adjustments */
+        @media (max-width: 600px) {
+            .construction-container {
+                padding: 2rem 1.5rem;
+            }
+            .icon-area svg {
+                width: 48px;
+                height: 48px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="construction-container">
+    <div class="icon-area">
+        <!-- IBM Carbon Design "Construction" Icon (32x32 scaled up) -->
+        <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true">
+            <path d="M22.6 11.2L20.8 13 19 11.2 17.2 13 15.4 11.2 13.6 13 11.8 11.2 10 13 8.2 11.2 6.4 13 4.6 11.2 2.8 13 2.1 12.3 3.9 10.5 2.1 8.8 2.8 8.1 4.6 9.9 6.4 8.1 8.2 9.9 10 8.1 11.8 9.9 13.6 8.1 15.4 9.9 17.2 8.1 19 9.9 20.8 8.1 22.6 9.9 23.3 9.2 21.5 7.4 23.3 5.6 21.5 3.8 19.7 5.6 17.9 3.8 16.1 5.6 14.3 3.8 12.5 5.6 10.7 3.8 8.9 5.6 7.1 3.8 5.3 5.6 4.6 4.9 6.4 6.6 4.6 8.4 6.4 10.1 8.2 8.4 10 10.1 11.8 8.4 13.6 10.1 15.4 8.4 17.2 10.1 19 8.4 20.8 10.1 21.5 10.8zM24 2H2V4H24V2zM28 6H2V8H28V6zM30 16H29.1V12H2V14H10V16H2V18H10V20H2V22H10V24H2V26H14V20H12V18H14V16H12V14H27.1L30 16zM10 28H2V30H10V28z"></path>
+            <path d="M28,14H16v2h2v2H16v2h2v2H16v6h2v-6h2v6h2v-6h2v6h2v-6h2ZM22,22H20V20h2Zm0-4H20V16h2Z"></path>
+        </svg>
+    </div>
+    <h1 class="bx--type-productive-heading-05">Site Under Construction</h1>
+    <p class="bx--type-body-long-01">
+        We're currently working hard behind the scenes to bring you an amazing new experience.
+        Please check back soon!
+    </p>
+    <!-- Optional: Add a button or links here -->
+    <!-- <a href="mailto:contact@example.com" class="bx--btn bx--btn--primary">Contact Us</a> -->
+</div>
+
+<!-- Carbon Components JavaScript (optional for this static page, but good to include if you expand with interactive components) -->
+<!-- <script src="https://unpkg.com/carbon-components/scripts/carbon-components.min.js"></script> -->
+</body>
+</html>  
