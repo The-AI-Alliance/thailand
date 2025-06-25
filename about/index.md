@@ -2,42 +2,36 @@
 layout: default  
 title: About
 ---  
-## Why the name `gofanon` ?
 
-See [Why the Name Gofannon?]({{ '/about/the_name_gofannon/' | relative_url}}) for the rich story on why we chose to honor this Celtic Diety
+## Members
+The initial members of the AI Alliance Japan chapter include Aitomatic, IBM, JSR, NEC, Panasonic, Red Hat, Mitsubishi Electric, National Institute of Informatics, and SAKURA internet Inc. 
 
-## Contributors
- 
-See the full list of contributors [here](https://the-ai-alliance.github.io/gofannon/leaderboard.html).
 
-### Core Contributors  
+### Community Leadership  
 
-| Name                 | GitHub Handle       | Affiliation    |
-|----------------------|---------------------|----------------|
-| **Andrew Musselman** | @andrewmusselman    | Speedchain     |
-| **Steve Blackmon**   | @steveblackmon      | Meta           |
-| **Trevor Grant**     | @rawkintrevo        | IBM            |
-| Joe Olson            | @jolson-ibm         | IBM            |
-| Vedansh Saini        | @vedansh-5          |             |
+| Name                 | GitHub Handle       | Affiliation         |
+|----------------------|---------------------|---------------------|
+| TBD                  | @TBD                | Aitomatic           |
+| TBD                  | @TBD                | IBM                 |
+| TBD                  | @TBD                | JSR                 |
+| TBD                  | @TBD                | NEC                 |
+| TBD                  | @TBD                | Panasonic           |
+| TBD                  | @TBD                | Red Hat             |
+| TBD                  | @TBD                | Mitsubishi Electric |
+| TBD                  | @TBD                | National Institute of Informatics            |
+| TBD                  | @TBD                | SAKURA Internet     |
 
-**Entries in bold indicate Project Leads.**
 
 ## Our Mission
+Accelerating and disseminate open innovation to improve foundational capabilities, safety, security and trust in artificial intelligence, and to responsibly maximize benefits to people and society everywhere. The AI Alliance brings together a critical mass of compute, data, tools, and talent to accelerate open innovation in AI. The AI Alliance Japan Chapter is an initiative to support AI sovereignty and industrial AI in Japan.
 
-### Cross-Framework Compatibility
-We solve the "vendor lock-in" problem in AI tooling through:
-- Standardized interface definitions
-- Automatic schema translation
-- Bidirectional conversion tools
+### Sovereign AI
+We will drive the open development of sovereign AI capabilities that address Japan-specific cultural and economic context with particular focus on AI agents, data, models and evaluation
 
-### Open Source Education
-We make AI development accessible by:
-- Curated contribution pathways
-- Interactive documentation
-- Pair programming sessions
-- Weekly office hours
+### Industrial AI
+We will collaborate to advance open-source AI research and development for industrial applications such as manufacturing, semiconductors, shipping and navigation, where reliable, accurate, domain-enriched AI systems are essential to success
 
 ## Communication Channels
 - **[Discord]({{ site.discord_link }})**: Real-time collaboration and support
-- **[GitHub Discussions](https://github.com/The-AI-Alliance/agents-wg/discussions/)**: Technical deep dives, and asynchronous collaboration.
-- **[Community Calls](https://calendar.app.google/c4eKW4zrNiXaue926)**: Bi-weekly video meetings  
+- **[GitHub Discussions](https://github.com/The-AI-Alliance/japan/discussions/)**: Ask questions, meet your community and asynchronous collaboration.
+- **[Community Calls: Coming Soon]()**: Bi-weekly video meetings  
