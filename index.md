@@ -5,8 +5,8 @@ title: Home
 
 <div class="hero bg-primary text-white py-5">  
     <div class="container text-center">  
-        <h1 class="display-4">Gofannon Tools</h1>  
-        <p class="lead">Forging next-generation AI capabilities</p>  
+        <h1 class="display-4">AI Alliance Japan</h1>  
+        <p class="lead">Building and advancing open source AI for Japan and everyone</p>  
         <a href="{{ '/docs' | relative_url }}" class="btn btn-light btn-lg">Get Started</a>  
     </div>  
     <p></p>
@@ -16,19 +16,12 @@ title: Home
 <div class="container my-5">  
     <div class="row">  
         <div class="col-md-6">  
-            <h2>Framework Portability</h2>  
-            <p>Seamlessly use tools across multiple frameworks. Write once, deploy anywhere.</p>  
-            <div class="badge bg-secondary">LangChain</div>  
-            <div class="badge bg-secondary">SmolAgents</div>  
-            <div class="badge bg-secondary">AWS boto3</div>  
-            <div class="badge bg-secondary">Langflow</div>  
-            <div class="badge bg-secondary">Anthropic MCP</div>
-            <div class="badge bg-secondary">Llama Stack by Meta</div>
-            <div class="badge bg-secondary">Google Agent Development Kit (ADK)</div>
+            <h2>Sovereign AI</h2>  
+            <p>Japan-specific context for AI agents, data, models and evaluation</p>  
         </div>  
         <div class="col-md-6">  
-            <h2>Open Source Education</h2>  
-            <p>Learn AI development through practical contributions. We provide mentorship and guided pathways for new contributors.</p>  
+            <h2>Industrial AI</h2>  
+            <p>Open-source AI research and development for manufacturing, semiconductors, shipping and navigation, where reliable, accurate, domain-enriched systems are essential</p>  
             <a href="{{ '/developers' | relative_url }}" class="btn btn-outline-primary">Contribution Guide</a>  
         </div>  
     </div>  
