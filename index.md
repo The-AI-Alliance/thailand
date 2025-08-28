@@ -5,8 +5,8 @@ title: Home
 
 <div class="hero bg-primary text-white py-5">  
     <div class="container text-center">  
-        <h1 class="display-4">AI Alliance Japan</h1>  
-        <p class="lead">Building and advancing open source AI for Japan and everyone</p>   
+        <h1 class="display-4">AI Alliance Thailand</h1>  
+        <p class="lead">Building and advancing open source AI for Thailand and everyone</p>   
     </div>  
     <p></p>
     
@@ -16,11 +16,11 @@ title: Home
     <div class="row">  
         <div class="col-md-6">  
             <h2>Sovereign AI</h2>  
-            <p>Japan-specific context for AI agents, data, models and evaluation</p>  
+            <p>Thailand-specific context for AI agents, data, models and evaluation</p>  
         </div>  
         <div class="col-md-6">  
-            <h2>Industrial AI</h2>  
-            <p>Open-source AI research and development for manufacturing, semiconductors, shipping and navigation, where reliable, accurate, domain-enriched systems are essential</p>    
+            <h2>Coming soon</h2>  
+            <p>Thailand-specific content</p>    
         </div>  
     </div>  
 </div>  
