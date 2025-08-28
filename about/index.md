@@ -11,11 +11,8 @@ The initial members of the AI Alliance Thailand chapter include KBTG and IBM.
 
 | Name                 | GitHub Handle       | Affiliation         |
 |----------------------|---------------------|---------------------|
-| Komes Chandavimol    | @TBD                | KBTG                |
-| TBD                  | @TBD                | IBM                 |
-| TBD                  | @TBD                | TBD                |
-
-
+| Komes Chandavimol    | @TBD                | [KBTG](https://www.kbtg.tech/){:target="kbtg"}                |
+| TBD                  | @TBD                | [IBM](https://ibm.com){:target="ibm"}                 |
 
 ## Our Mission
 Accelerating and disseminate open innovation to improve foundational capabilities, safety, security and trust in artificial intelligence, and to responsibly maximize benefits to people and society everywhere. The AI Alliance brings together a critical mass of compute, data, tools, and talent to accelerate open innovation in AI. The AI Alliance Thailand Chapter is an initiative to support AI sovereignty and the AI needs of Thailand.
@@ -27,6 +24,4 @@ We will drive the open development of sovereign AI capabilities that address Tha
 We will collaborate to advance open-source AI research and development for Thailand and region.
 
 ## Communication Channels
-- **[Discord]({{ site.discord_link }})**: Real-time collaboration and support
 - **[GitHub Discussions](https://github.com/The-AI-Alliance/thailand/discussions/)**: Ask questions, meet your community and asynchronous collaboration.
-- **[Community Calls: Coming Soon]()**: Bi-weekly video meetings  
