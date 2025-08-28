@@ -24,4 +24,4 @@ We will drive the open development of sovereign AI capabilities that address Tha
 We will collaborate to advance open-source AI research and development for Thailand and region.
 
 ## Communication Channels
-- **[GitHub Discussions](https://github.com/The-AI-Alliance/thailand/discussions/)**: Ask questions, meet your community and asynchronous collaboration.
+- [**GitHub Discussions**](https://github.com/The-AI-Alliance/thailand/discussions/): Ask questions, meet your community and asynchronous collaboration.
